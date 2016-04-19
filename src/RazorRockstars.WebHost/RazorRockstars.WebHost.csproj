@@ -152,6 +152,7 @@
     <Content Include="stars\alive\vedder\splash.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="stars\alive\vedder\RazorContent.cshtml" />
     <Content Include="stars\dead\cobain\splash.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
